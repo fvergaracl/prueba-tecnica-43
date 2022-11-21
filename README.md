@@ -21,7 +21,7 @@ Al terminar crear un repositorio publico en github y enviar link por email a fel
 
 Despúes de tu entrega se te contactará vía email dentro de los proximos 2 días hábiles (usualmente es antes) para coordinar una entrevista
 
-#### Deadline: Miércoles 16 de Noviembre del 2022 | 23:59 hora de chile (GMT-3)
+#### Deadline: Domingo 27 de Noviembre del 2022 | 23:59 hora de chile (GMT-3)
 
 Buena suerte!
 
