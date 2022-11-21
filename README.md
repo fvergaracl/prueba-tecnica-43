@@ -1,4 +1,4 @@
-## Prueba Técnica [Practicante]
+## Prueba Técnica [Full-Stack Trainee Developer]
 
 #### Objetivo General
 
